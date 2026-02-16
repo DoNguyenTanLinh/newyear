@@ -16,7 +16,7 @@ function loadingVisible() {
 }
 
 /* Scroll Title Begin */
-var scrl = "Merry Christmas! ";
+var scrl = "Happy new year 2026 - Tester số 1 của emm ";
 function scrlsts() {
     scrl = scrl.substring(1, scrl.length) + scrl.substring(0, 1);
     document.title = scrl;
